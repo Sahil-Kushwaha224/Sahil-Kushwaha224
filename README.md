@@ -17,8 +17,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Python**
-- 🎓 I graduated with a B.Tech in Computer Science and Engineering from **Pranveer Singh Institute Of Technology, Kanpur**
+- - 🌱 I’m currently deepening my knowledge in **HTML, CSS, and Python** to build dynamic and responsive web applications.
+- 🚀 I'm advancing my **full-stack development** skills by integrating with Python and enhancing my front-end expertise with **Angular** and **React**.
+- 💻 I'm focusing on **Spring Boot** and **Hibernate** for robust backend development, alongside **REST API** creation for seamless data interaction.
+- 🌐 I'm learning to deploy applications on **AWS** and **Azure**, ensuring scalable and secure cloud-based solutions.
+- 🛠 I'm also honing my skills in **SQL** and **MySQL**, optimizing database management, and mastering **Git** and **Jenkins** for continuous integration and version control.
 - 💡 I'm interested in **Competitive Programming, Puzzle Solving, and Cricket**
 - 📫 How to reach me **shsl.knp@gmail.com**
 
