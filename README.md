@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sahil Kushwaha</h1>
-<h3 align="center">A passionate Software Developer and Learner from India</h3>
+<h3 align="center">A passionate Software Developer and Lifelong Learner from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sahil-web224&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-web224" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahil-web224&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-web224" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-kushwaha-729a4619b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sahil7982874565/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="mailto:shsl.knp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 - 🌱 I’m currently learning **HTML, CSS, Python**
 - 🎓 I graduated with a B.Tech in Computer Science and Engineering from **Pranveer Singh Institute Of Technology, Kanpur**
-- 💼 I’m currently working as an **Associate Software Engineer Trainee at Nagarro**
 - 💡 I'm interested in **Competitive Programming, Puzzle Solving, and Cricket**
 - 📫 How to reach me **shsl.knp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-kushwaha-729a4619b/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sahil-kushwaha" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sahil7982874565/profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahil7982874565/profile" height="30" width="40" />
-  </a>
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
