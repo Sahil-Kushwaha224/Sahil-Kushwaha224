@@ -38,11 +38,11 @@
 | [**Loan Application Workflow**](https://github.com/Sahil-Kushwaha224) | Camunda 8, BPMN | Automated loan processing with API integration |
 
 ---
-
 ### 🏆 Certifications  
-<p>
-  <a href="https://www.example.com/camunda-certification-proof" target="_blank">
-    <img src="https://img.shields.io/badge/Camunda%20Certified%20Developer-%230E75B6.svg?style=for-the-badge&logo=camunda&logoColor=white" />
+
+<p align="center">
+  <a href="https://www.example.com/camunda-certification-proof" target="_blank" title="View Certification">
+    <img src="https://img.shields.io/badge/Camunda%20Certified%20Developer-%230E75B6.svg?style=for-the-badge&logo=camunda&logoColor=white" alt="Camunda Certified Developer Badge" />
   </a>
 </p>
 
