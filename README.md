@@ -1,106 +1,92 @@
 <h1 align="center">Hi 👋, I'm Sahil Kushwaha</h1>
-<h3 align="center">A passionate Software Developer and Lifelong Learner from India</h3>
+<h3 align="center">💻 Senior Software Engineer | Full Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil-web224&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-web224" />
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Kushwaha224&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahil-kushwaha-729a4619b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sahil7982874565/profile" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="mailto:shsl.knp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-- - 🌱 I’m currently deepening my knowledge in **HTML, CSS, and Python** to build dynamic and responsive web applications.
-- 🚀 I'm advancing my **full-stack development** skills by integrating with Python and enhancing my front-end expertise with **Angular** and **React**.
-- 💻 I'm focusing on **Spring Boot** and **Hibernate** for robust backend development, alongside **REST API** creation for seamless data interaction.
-- 🌐 I'm learning to deploy applications on **AWS** and **Azure**, ensuring scalable and secure cloud-based solutions.
-- 🛠 I'm also honing my skills in **SQL** and **MySQL**, optimizing database management, and mastering **Git** and **Jenkins** for continuous integration and version control.
-- 💡 I'm interested in **Competitive Programming, Puzzle Solving, and Cricket**
-- 📫 How to reach me **shsl.knp@gmail.com**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 About Me  
+- 🔭 Currently working as **Senior Engineer @ Nagarro**  
+- 🌱 Expanding expertise in **Full Stack Development** using **Spring Boot, Hibernate, React, Angular, Node.js**  
+- ☁ Skilled in **Cloud Deployment** with **AWS** & **Azure**  
+- 🛠 Experienced in **REST API Development**, **Database Management**, **CI/CD with Jenkins & Git**  
+- 💡 Passionate about **Competitive Programming, Puzzle Solving & Cricket**  
+- 📫 Reach me at **[shsl.knp@gmail.com](mailto:shsl.knp@gmail.com)**  
+
+---
+
+### 🛠 Tech Stack & Tools  
 <p align="left">
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <!-- Spring -->
-  <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <!-- NodeJS -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <!-- Amazon AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- Microsoft Azure -->
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sql-server.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sql-server.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 </p>
 
-<h3 align="left">📊 Stats:</h3>
+---
 
+### 📌 Highlighted Projects  
+#### 🔹 [Blog Post App (React + Redux)](https://github.com/Sahil-Kushwaha224)  
+A responsive blog application with **CRUD**, like feature, and state management using **Redux & Context API**.  
+
+#### 🔹 [Contacts Management App (React Native)](https://github.com/Sahil-Kushwaha224)  
+A mobile app for managing contacts, with photo storage, favorites, and local database persistence.  
+
+#### 🔹 [Notes Generator (Spring Boot + Angular)](https://github.com/Sahil-Kushwaha224)  
+A note-taking app with **user authentication**, CRUD, and auto-deletion of older notes beyond the latest 10.  
+
+#### 🔹 [Loan Application Workflow (Camunda 8)](https://github.com/Sahil-Kushwaha224)  
+Business process automation with **BPMN**, API integration, and conditional workflows.  
+
+---
+
+### 🏆 Certifications  
+<p>
+  <a href="https://www.example.com/camunda-certification-proof" target="_blank">
+    <img src="https://img.shields.io/badge/Camunda%20Certified%20Developer-0E75B6?style=for-the-badge&logo=camunda&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20Developer%20Training-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Kushwaha224&show_icons=true&theme=radical" alt="Sahil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Kushwaha224&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Kushwaha224&theme=radical" alt="Sahil's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Kushwaha224&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Kushwaha224&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🤝 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/sahil-kushwaha-729a4619b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shsl.knp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sahil7982874565/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
