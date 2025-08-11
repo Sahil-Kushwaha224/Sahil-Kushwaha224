@@ -44,8 +44,6 @@
   <a href="https://www.example.com/camunda-certification-proof" target="_blank">
     <img src="https://img.shields.io/badge/Camunda%20Certified%20Developer-%230E75B6.svg?style=for-the-badge&logo=camunda&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java%20Developer%20Training-%235382A1.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
