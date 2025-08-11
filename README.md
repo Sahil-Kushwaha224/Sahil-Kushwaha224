@@ -1,6 +1,6 @@
 <!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Kushwaha;Full+Stack+Developer;Senior+Engineer+%40+Nagarro;Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Kushwaha;Full+Stack+Developer;Engineer+%40+Nagarro;Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻  Software Engineer | Full Stack Developer | Cloud Enthusiast</h3>
