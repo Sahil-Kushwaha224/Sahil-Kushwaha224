@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working as **Senior Engineer @ Nagarro**  
+- 🔭 Currently working as **Engineer @ Nagarro**  
 - 🌱 Expanding expertise in **Full Stack Development** using **Spring Boot, Hibernate, React, Angular, Node.js**  
 - ☁ Skilled in **Cloud Deployment** with **AWS** & **Azure**  
 - 🛠 Experienced in **REST API Development**, **Database Management**, **CI/CD with Jenkins & Git**  
